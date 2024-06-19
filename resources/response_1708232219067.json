@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "0d25ac4a-964a-0077-9f42-9fb7814c7166",
+    "name": "Anti-Money Laundering (AML) Policy",
+    "description": "Detects potential signs and symptoms of money laundering presented in conversation.  This policy matches based on word patterns.  This policy is provided for content classification purposes only."
+  },
+  {
+    "id": "db9adb60-2bbf-a6fb-4dfd-56b71a1b62d8",
+    "name": "Argentina Personal Data Policy",
+    "description": "Detects personal data as defined by Argentina's Personal Data Protection Law No. 25,326 (PDPL), Argentina Bill No. MEN-2018-147-APN-PTE, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "d81bd21d-a392-7eca-7e69-bb02ae27f459",
+    "name": "Argentina Sensitive Data Policy",
+    "description": "Detects sensitive data for Argentina as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "f1fd0961-38b5-55a4-a2ff-18916f9bed29",
+    "name": "Attorney Client Privileged Policy",
+    "description": "Detect documents which are protected by attorney-client confidentiality."
+  },
+  {
+    "id": "2fa6036b-9f1b-2cab-4933-9e98904c6008",
+    "name": "Australia Drivers License Number Policy",
+    "description": "Detect Australia drivers license numbers."
+  },
+  {
+    "id": "ef325987-3420-5234-c6c5-967239713277",
+    "name": "Australia Individual Healthcare Identifier (IHI) Policy",
+    "description": "Detect Australia Individual Healthcare Identifiers (IHI) and related content."
+  },
+  {
+    "id": "01135c82-d1c5-b620-5ec5-37ad4d682fa2",
+    "name": "Australia Passport Policy",
+    "description": "Detect Australia passport with related content."
+  },
+  {
+    "id": "ede168b2-ead5-53f7-971a-312fb015f50a",
+    "name": "Australia Personal Data Policy",
+    "description": "Detects personal data or personal information as defined by Australia's Federal Privacy Act 1988 (Privacy Act), Privacy (Tax File Number) Rule 2015, Taxation Administration Act 1953, and cross-compatibility with European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "8aa5cbe2-b502-46e8-cec7-bba341676378",
+    "name": "Australia Sensitive Data Policy",
+    "description": "Detects sensitive data for Australia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "430f05fa-261e-df3a-0aef-400dfd9ec774",
+    "name": "Australia Tax Policy",
+    "description": "Detect Australia tax file number and related content."
+  },
+  {
+    "id": "d1135068-449f-ab5a-32ff-f50fa7f3e7cb",
+    "name": "Austria Personal Data Policy",
+    "description": "Detects personal data as defined by the Data Protection Act 2000 (DSG 2000), Regulation (EU) 611/2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "f5fd3677-41b3-5575-a1ce-16109a95c596",
+    "name": "Austria Sensitive Data Policy",
+    "description": "Detects sensitive data for Austria as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "2ee5803b-6dd6-1857-4624-e9ee80ecca52",
+    "name": "Authentication Policy",
+    "description": "Detect authentication information such as credentials."
+  },
+  {
+    "id": "1a82ec4d-d025-c581-38eb-747b066a1da2",
+    "name": "Bank Account Number Policy",
+    "description": "Detect bank account numbers."
+  },
+  {
+    "id": "01ce5da0-fc8e-ec43-4107-e99ddcdaaf1a",
+    "name": "Belgium Personal Data Policy",
+    "description": "Detects personal data applicable to Belgium's Data Protection Directive (DPL), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "76759d54-cdb1-c802-5c63-078c3f44c067",
+    "name": "Belgium Sensitive Data Policy",
+    "description": "Detects sensitive data for Belgium as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "eeb41c32-8bee-9d98-b1c6-0de198567b1e",
+    "name": "Bolivia Personal Data Policy",
+    "description": "Detects personal data as defined by Bolivia Political Constitution of the Plurinational State of Bolivia, in Article Nº130, Bolivia Bill of Personal Data Protection, Bolivia Law 145 - Personal Identification Registry, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "eb4c4129-58c5-987f-8e67-ddc4aefe8cfe",
+    "name": "Bolivia Sensitive Data Policy",
+    "description": "Detects sensitive data for Bolivia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "30f551c5-fd8d-07e5-4ec0-bee8fdc8cbfc",
+    "name": "Brazil Personal Data Policy",
+    "description": "Detects personal data as defined by Brazil's General Data Privacy Law, Law No. 13,709, Lei Geral de Proteção de Dados Pessoais (LGPD), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "a1f33ac4-c7c0-5c8f-9b1a-51f06f933982",
+    "name": "Brazil Sensitive Data Policy",
+    "description": "Detects sensitive data for Brazil as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b8a9d5a8-d22c-a8b5-23ed-fba20788b93e",
+    "name": "Bribery Policy",
+    "description": "Detect language in communication which suggests bribery or quid pro quo."
+  },
+  {
+    "id": "4098dc5a-5c8c-4b21-6554-18de42afd990",
+    "name": "Bulgaria Personal Data Policy",
+    "description": "Detects personal data as defined by Bulgaria's Personal Data Protection Act, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "db5a8b92-663b-51be-6043-9d037eec2e17",
+    "name": "Bulgaria Sensitive Data Policy",
+    "description": "Detects sensitive data for Bulgaria as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "8e6e07b2-b1a1-13c1-a191-463c6aad29e3",
+    "name": "Canada Drivers License Number Policy",
+    "description": "Detect Canada drivers license numbers."
+  },
+  {
+    "id": "fa633136-3e79-12c9-5a63-64c338457ceb",
+    "name": "Canada Healthcare Identifiers Policy",
+    "description": "Detect Canada Healthcare Identifiers and related content."
+  },
+  {
+    "id": "ca210f2b-50e1-a30f-aeed-fbf1e9d331dc",
+    "name": "Canada Passport Policy",
+    "description": "Detect Canada passport with related content."
+  },
+  {
+    "id": "681e30e5-ef53-c6e3-9026-ee22ddbeede7",
+    "name": "Canada Personal Data Policy",
+    "description": "Detects personal data as defined by Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), the Data Privacy Act, the Model Care for the Protection of Personal Information, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "cee3cbaa-f1e4-8d5a-3dde-8f44ca6fd03d",
+    "name": "Canada Sensitive Data Policy",
+    "description": "Detects sensitive data for Canada as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ac732f58-1e8a-e486-a186-f9f77bd68bbc",
+    "name": "Canada Social Insurance Number Policy",
+    "description": "Detect Canadian social insurance numbers."
+  },
+  {
+    "id": "4272c1cd-0b4d-740f-22e9-6230dd63c90c",
+    "name": "Chile Personal Data Policy",
+    "description": "Detects personal data as defined by Chile's Privacy Protection Law, N° 19.628 (1999) (\"Personal Data Protection Law\"), Law N°21.096 on the right to the protection of personal data (June/2018), Article 19 N°4 of the Chilean Constitution, Law N°21.081 Article 1 N°39 (2018) on consumer rights protection, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "07e0592f-aad8-37a9-8ff6-e3250878d37f",
+    "name": "Chile Sensitive Data Policy",
+    "description": "Detects sensitive data for Chile as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "3020bf05-55af-820a-fa7d-e73e82450fe2",
+    "name": "China Personal Data Policy",
+    "description": "Detects personal data as defined by China Personal Information Protection Law (PIPL), China National People’s Congress (NPC) Cybersecurity Law, China National Information Security Standardization Technical Committee (TC260) Personal Information Security Specification, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "fdc8573d-08af-2d21-29ae-ac83a12835a4",
+    "name": "China Sensitive Data Policy",
+    "description": "Detects sensitive data for China as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "283331cb-9cef-f83e-822a-6c8b638dcfa8",
+    "name": "Colombia Personal Data Policy",
+    "description": "Detects personal data as defined by Articles 15 and 20 of Colombia’s Constitution, Colombia Statutory Law 1266 of 2008, Colombia Statutory Law 1581 of 2012, Colombia Law 2157 of 2021, Colombia Decree 1377 of 2013, Colombia Decree 886 of 2014, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "aa783869-6bfd-68d7-0e9d-5895e4ca14ec",
+    "name": "Colombia Sensitive Data Policy",
+    "description": "Detects sensitive data for Colombia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "4ca5bc04-cdbd-6942-fe82-f32599b83c91",
+    "name": "Compensation Communication Policy",
+    "description": "Detect communication about compensation."
+  },
+  {
+    "id": "6c74a0fb-73f8-394d-ee8e-22d72389a4bd",
+    "name": "Coronavirus (COVID) Policy",
+    "description": "Detects Corona Virus Disease names and related terms.  This policy template can be extended with additional data elements to find content containing Coronavirus/COVID in specific contexts (for example, patient health, financial benefits, etc)."
+  },
+  {
+    "id": "ddf3eb02-e282-68a0-4957-04c7a7e0fe02",
+    "name": "Credit/Bank Card Policy",
+    "description": "Detect credit, debit, and bank cards."
+  },
+  {
+    "id": "77dffb7f-3e18-7753-0ce5-9c33ef37d6e3",
+    "name": "Criminal History Policy",
+    "description": "Detects identity history summary (Criminal History Record, or Rap sheet) for Criminal Justice Systems."
+  },
+  {
+    "id": "483331ca-93a1-0352-be7a-4934da057cb7",
+    "name": "Croatia Personal Data Policy",
+    "description": "Detects personal data as defined by Croatia's Personal Data Protection Law (\"DP Law\") nos. 103/2003, 118/2006, 41/2008 and 130/2011, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "15384973-0276-04fe-7199-5d9c8cbaebb8",
+    "name": "Croatia Sensitive Data Policy",
+    "description": "Detects sensitive data for Croatia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "fe9d7f0e-0229-1d38-eae2-3114e2a6e90a",
+    "name": "Cyprus Personal Data Policy",
+    "description": "Detects personal data as defined by Cyprus' Processing of Personal Data (Protection of the Individual) Law 138(I)/2001, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b2fa8e39-7d8a-edae-aa53-6e17bd3dff4d",
+    "name": "Cyprus Sensitive Data Policy",
+    "description": "Detects sensitive data for Cyprus as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "68d742e6-cea2-46f7-424c-805b9d2edc1d",
+    "name": "Czech Republic Personal Data Policy",
+    "description": "Detects personal data as defined by Czech Republic's Protection of Personal Data Act No. 101/2000 Coll. (PPD Act), Act on Certain Aspects of Information Society Services Information No. 480/2004 Coll., Electronic Communications Act No. 127/2005 Coll., European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "40021ff5-4f8f-3f2a-0303-0c039245ce98",
+    "name": "Czech Republic Sensitive Data Policy",
+    "description": "Detects sensitive data for Czech as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "475782f1-8b35-729f-973b-96c6419e00d4",
+    "name": "U.S. Drug Enforcement Agency (DEA) Number Policy",
+    "description": "Detect U.S. Drug Enforcement Agency (DEA) numbers and related content."
+  },
+  {
+    "id": "4685092a-38a1-865a-0362-b6174ade95ce",
+    "name": "Denmark Personal Data Policy",
+    "description": "Detects personal data applicable to Denmark's Act on Processing of Personal Data (APPD), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7ce233e7-bd4e-f0c4-2ede-f7df07b4fc90",
+    "name": "Denmark Sensitive Data Policy",
+    "description": "Detects sensitive data for Denmark as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b1c477e4-9dc3-9873-950b-0557cc90588b",
+    "name": "Ecuador Personal Data Policy",
+    "description": "Detects personal data as defined by Ecuador's Organic Law on Personal Data Protection, Constitution of the Republic of Ecuador, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ee5e8891-22b9-4e1f-42af-d27c9aaeaaeb",
+    "name": "Ecuador Sensitive Data Policy",
+    "description": "Detects sensitive data for Ecuador as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "d7683ed0-d721-2e43-e52f-d5f8653fe621",
+    "name": "Egypt Personal Data Policy",
+    "description": "Detects personal data as defined by Egypt Data Protection Law (Resolution/Law No. 151 of 2020), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "1d449f3e-b305-b42f-1131-26c6a6a69644",
+    "name": "Egypt Sensitive Data Policy",
+    "description": "Detects sensitive data for Egypt as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "397d3b1a-181e-ec67-4b46-85e7606aad0e",
+    "name": "Estonia Personal Data Policy",
+    "description": "Detects personal data as defined by Estonia's Personal Data Protection Act, Electronic Communications Act, the Information Society Services Act, Directives 2002/58 and 2009/136/EC on Privacy and Electronic Communications, Electronic Communications Act, Directive 2006/24/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "6c56da2c-c8d4-e7dc-d175-f1f0d2ddc923",
+    "name": "Estonia Sensitive Data Policy",
+    "description": "Detects sensitive data for Estonia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "4efd228f-392f-a364-e7c7-5379208ef907",
+    "name": "Ethics and Code of Conduct Policy",
+    "description": "Detect language which may be unethical or a violation of corporate code of conduct policy."
+  },
+  {
+    "id": "400c92af-932a-37ff-8d94-4ef2c9617882",
+    "name": "Finland Personal Data Policy",
+    "description": "Detects personal data as defined by Finland's Constitution (731/1999), the Personal Data Act (523/1999) (henkilötietolaki) (PDA), the Act on the Data Protection Board and the Data Protection Ombudsman (389/1994), Information Society Code (917/2014) (ISC), the Act on the Protection of Privacy in Working Life (759/2004) (WPA), Credit Data Act (527/2007) (CDA), Regulation (EU) 611/2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "882f5c66-73a2-e9a9-1ceb-dca05a92f6be",
+    "name": "Finland Sensitive Data Policy",
+    "description": "Detects sensitive data for Finland as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "f5c8df0e-fa6d-019c-acb1-bb6fc3658bdf",
+    "name": "France Personal Data Policy",
+    "description": "Detects personal data applicable to France's Federal and State laws, including France's Act No 78-17 on Information Technology, Data Files and Civil Liberties (DPA), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "720494ec-06a8-a968-e1af-22f522408b29",
+    "name": "France Sensitive Data Policy",
+    "description": "Detects sensitive data for France as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "e62bd87c-1aba-f567-4fca-0bcd3316c110",
+    "name": "France National ID Policy",
+    "description": "Detect France National Identifiers and related content."
+  },
+  {
+    "id": "38fc4355-db35-1ddc-7a96-05ec3f22053f",
+    "name": "Germany Personal Data Policy",
+    "description": "Detects personal data applicable to Germany's Federal and State laws, including Germany's Federal Data Protection Act (BDSG), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7ec56375-c641-5f71-9bb5-8d4144fc12ed",
+    "name": "Germany Sensitive Data Policy",
+    "description": "Detects sensitive data for Germany as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "8599b795-b65b-10de-7578-895bc2a31fda",
+    "name": "Greece Personal Data Policy",
+    "description": "Detects personal data as defined by Greece's Data Protection Act no 2472/1999 (DPA), Directive 2002/58/EC (Privacy and Electronic Communications Directive), implemented by Law no 3471/2006 on the protection of personal data and privacy in the telecommunications sector (TDPA), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "e157eb7a-bd8c-9ca6-0c44-26f29c7e819b",
+    "name": "Greece Sensitive Data Policy",
+    "description": "Detects sensitive data for Greece as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "15099a60-2f2a-9c78-0d61-355924ae04f3",
+    "name": "Guatemala Personal Data Policy",
+    "description": "Detects personal data as defined by Guatemala's Law of Access to Public Information, Political Constitution of the Republic of Guatemala 1985, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "96ed9fc4-9b62-dbba-c1ca-3a3cd1ea2f2d",
+    "name": "Guatemala Sensitive Data Policy",
+    "description": "Detects sensitive data for Guatemala as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "06704530-1c69-b53a-4c4f-0478ac144c61",
+    "name": "Workplace Harassment Policy",
+    "description": "Detect content which may violate federal, state, local, corporate, and workplace or sexual harassment policies and regulations.  This policy helps detect content subject to corporate/workplace policy and legislative regulations such as Title VII of the Civil Rights Act of 1964, California AB 1825 (Part of) \"Fair Employment and Housing Act\", Connecticut Public Act No. 19-16 \"Time's Up Act\", Delaware SB 360 (Part of) \"Delaware Discrimination in Employment Act (DDEA)\", Maine Revised Statutes Title 26, section 807 (Enhanced by) \"Maine Human Rights Act\", New York Assembly Bill A8421 AKA \"Stop Sexual Harassment in NYC Act\", and others."
+  },
+  {
+    "id": "a1c2af0a-a40c-c0e2-3c79-3388ff36ced8",
+    "name": "Hong Kong Personal Data Policy",
+    "description": "Detects personal data as defined by Hong Kong's Personal Data (Privacy) Ordinance (PDPO), Laws of Hong Kong (Cap 486) (PDPO), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c758235f-b37c-24ba-0b51-a693a9051a19",
+    "name": "Hong Kong Sensitive Data Policy",
+    "description": "Detects sensitive data for Hong Kong as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "087b2c03-5197-339d-7479-76327b1c0437",
+    "name": "Hungary Personal Data Policy",
+    "description": "Detects personal data as defined by Hungary's Act No. CXII on the Right to Informational Self Determination and Freedom of Information, Act XLVII on Processing and Protection of Medical and Other Related Personal Data (Medical Data Act), Act LXVI on Personal Data and Address Records of Citizens, Act C on Electronic Communications (Electronic Communications Act), Act CXIX on Processing of Name and Address Data for Research and Direct Marketing Purposes, Act CXII on Credit Institutions and Financial Undertakings (Credit Institutions Act), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "9b2ae596-7d03-eb21-2f10-6ac97f57e2e9",
+    "name": "Hungary Sensitive Data Policy",
+    "description": "Detects sensitive data for Hungary as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "f542147e-6f54-7e86-1619-76f3078a3f59",
+    "name": "ICD 10 Diagnosis Policy",
+    "description": "Detect International Classification of Diseases (ICD) 10 diagnosis indexes (textual names) and codes (alpha-numeric)."
+  },
+  {
+    "id": "6e138c3d-04b6-20a4-943c-b086c3e4f9e6",
+    "name": "Iceland Personal Data Policy",
+    "description": "Detects personal data applicable to European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b4601419-460c-15ed-7b31-44331db41991",
+    "name": "Iceland Sensitive Data Policy",
+    "description": "Detects sensitive data for Iceland as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "6074a9f0-0fae-b652-710e-0dd70e4ebde3",
+    "name": "India Personal Data Policy",
+    "description": "Detects personal data as defined by India's Personal Data Protection Bill (DPB) 2019, India's Information Technology Act 2000, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "31e52d96-1c33-6d0d-b643-0d8f74277f13",
+    "name": "India Sensitive Data Policy",
+    "description": "Detects sensitive data for India as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "12063bb6-1784-4ca4-0286-c1ca2a2534be",
+    "name": "Indonesia Personal Data Policy",
+    "description": "Detects personal data as defined by Indonesia's Law No. 11 of 2008 on Electronic Information and Transaction, as amended by Law No. 19 of 2016 regarding the Amendment of EIT Law (\"EIT Law Amendment\"), Government Regulation No. 71 of 2019 regarding Provisions of Electronic Systems and Transactions, Minister of Communication & Informatics Regulation No. 20 of 2016 regarding the Protection of Personal Data in an Electronic System, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ebb9ac3a-f4df-1a1d-0180-0d5e58a55997",
+    "name": "Indonesia Sensitive Data Policy",
+    "description": "Detects sensitive data for Indonesia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b6fb1462-62b9-b987-0f18-b1ff40c6e661",
+    "name": "Company Confidential and Intellectual Property Policy",
+    "description": "Detect documents which are confidential, secret, internal-only as well as intellectual property source code."
+  },
+  {
+    "id": "1ff9829e-e247-5820-8c81-e9e9e6986349",
+    "name": "IP Address Policy",
+    "description": "Detect Internet Protocol (IP) addresses."
+  },
+  {
+    "id": "e3813c9c-4aa5-493f-d6e4-bda343ec970b",
+    "name": "Ireland Personal Data Policy",
+    "description": "Detects personal data as defined by Ireland's Data Protection Act 1988, the Data Protection (Amendment) Act 2003 (DPA), European Communities (Electronic Communications Networks and Services) Regulations 2011 (Privacy and Electronic Communications) (e-Privacy Regulations), Regulation (EU) 611/2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ba832c56-1ec1-b92d-29ee-d74fa60fe151",
+    "name": "Ireland Sensitive Data Policy",
+    "description": "Detects sensitive data for Ireland as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "d54f8454-d2a5-861b-059f-7b1d2dc91020",
+    "name": "Israel Personal Data Policy",
+    "description": "Detects personal data as defined by Israel's Protection of Privacy (Information Security) Regulations 5767-2017, Protection of Privacy Law 5741-1981, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7552bc6f-067f-36e1-644f-defcba446379",
+    "name": "Israel Sensitive Data Policy",
+    "description": "Detects sensitive data for Israel as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "000dcc83-5d3b-a043-95ca-deb6cb9b8b37",
+    "name": "Italy Codice Fiscale Policy",
+    "description": "Detect Italy's Codice Fiscale numbers, also known as Italian fiscal code card numbers"
+  },
+  {
+    "id": "54966363-dd78-1c2e-6348-f4f7ced89ceb",
+    "name": "Italy Personal Data Policy",
+    "description": "Detects personal data applicable to Italy's Legislative Decree No. 196/2003, which contains the Italian Personal Data Protection Code (Code), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "bef6bd77-c139-ddb2-ebdb-e139d6048505",
+    "name": "Italy Sensitive Data Policy",
+    "description": "Detects sensitive data for Italy as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "53efe246-28f6-b630-b4d8-ce4bdb6a53a4",
+    "name": "Japan Personal Data Policy",
+    "description": "Detects personal data as defined by Japan's Act on the Protection of Personal Information (\"APPI\"), and cross-compatibility with European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b01f913f-826c-d779-e308-55912a051b2e",
+    "name": "Japan Sensitive Data Policy",
+    "description": "Detects sensitive data for Japan as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "5c97753c-afb7-f076-8aee-4ddd27e0cc57",
+    "name": "Kenya Personal Data Policy",
+    "description": "Detects personal data as defined by Kenya Data Protection (Compliance & Enforcement) Regulation 2021, Data Protection (Registration of Data Controllers & Data Processors) Regulation 2021, Data Protection (General) Regulations 2021, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "6e731e6e-86d3-205b-bcc6-2f42e7a129c3",
+    "name": "Kenya Sensitive Data Policy",
+    "description": "Detects sensitive data for Kenya as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "eb97a27a-4a0d-1905-fa7f-5b0a39afffb1",
+    "name": "Kuwait Personal Data Policy",
+    "description": "Detects personal data as defined by a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "10449f51-6f5c-b3c7-f2ac-0718431b0249",
+    "name": "Kuwait Sensitive Data Policy",
+    "description": "Detects sensitive data for Kuwait as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "dae9bf60-08c0-54f6-f8d9-6d72ea93228e",
+    "name": "Latvia Personal Data Policy",
+    "description": "Detects personal data as defined by Latvia's Personal Data Protection Law, Personal Data Act, Law on Electronic Communications, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "a5ad0f5b-b1ae-6696-a305-6614c88d4026",
+    "name": "Latvia Sensitive Data Policy",
+    "description": "Detects sensitive data for Latvia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b8d36c72-15ba-486e-fb9d-0961b3b95ccb",
+    "name": "Lithuania Personal Data Policy",
+    "description": "Detects personal data as defined by Lithuania's Law on Legal Protection of Personal Data (\"Data Protection Law\"), Law No. I-1374 and X-1444, Data Retention Directive 2006/24/EC, Law on Electronic Communications (\"Electronic Communications Law\"), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "88c99e23-54f7-f9e9-89b5-87a8f8b5bb48",
+    "name": "Lithuania Sensitive Data Policy",
+    "description": "Detects sensitive data for Lithuania as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "8e561876-7389-7d7b-f2ff-5ef1bcc422e0",
+    "name": "Luxembourg Personal Data Policy",
+    "description": "Detects personal data as defined by Luxembourg's protection of persons with regard to the processing of personal data (Data Protection Law), Regulation (EU) 679/2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "e425aa4f-f801-92a3-6fff-7f6428cd0c14",
+    "name": "Luxembourg Sensitive Data Policy",
+    "description": "Detects sensitive data for Luxembourg as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "15d69fb9-66fe-2297-001e-772a6a74a412",
+    "name": "Malaysia Personal Data Policy",
+    "description": "Detects personal data as defined by Malaysia Personal Data Protection Act 2010 and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7992182a-33c8-1b17-2243-a10323003b11",
+    "name": "Malaysia Sensitive Data Policy",
+    "description": "Detects sensitive data for Malaysia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "e7955f88-5b75-c511-d219-aa99caaa498b",
+    "name": "Malta Personal Data Policy",
+    "description": "Detects personal data as defined by Malta's Data Protection Act, Processing of Personal Data (Electronic Communications Sector) Regulations, Notification and Fees (Data Protection Act) Regulations, Processing of Personal Data (Protection of Minors) Regulations, Data Protection (Processing of Personal Data in the Police Sector) Regulations, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ba6f8bcd-ff75-c6d7-5689-7327fd274360",
+    "name": "Malta Sensitive Data Policy",
+    "description": "Detects sensitive data for Malta as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c4cf03fe-eae2-53d7-c643-eadbb6c164c8",
+    "name": "Material Non-Public Information (MNPI) Policy",
+    "description": "Detects potential signs and symptoms of material non-public information (MNPI) presented in conversation.  This policy matches based on word patterns.  This policy is provided for content classification purposes only."
+  },
+  {
+    "id": "e671c4e4-6558-7b8d-0d5d-7d8a95011897",
+    "name": "Medical Diagnosis - Allergy Policy",
+    "description": "Proposes possible Allergy medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "f1126b4c-1ac8-0723-d9f9-90ce8b341994",
+    "name": "Medical Diagnosis - Anemia Policy",
+    "description": "Proposes possible Anemia medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "08154657-4cad-717b-fcf0-8c57bc19da89",
+    "name": "Medical Diagnosis - Anxiety Policy",
+    "description": "Proposes possible Anxiety medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "0f10bd3a-b2a2-5ae8-23db-d08fa493d2b6",
+    "name": "Medical Diagnosis - Appendicitis Policy",
+    "description": "Proposes possible Appendicitis medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "0e1126ab-bcae-bba9-834c-fe5146d06ad1",
+    "name": "Medical Diagnosis - Bladder Infection Policy",
+    "description": "Proposes possible Bladder Infection medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "5d38036e-39c3-8ccd-c389-309baa7cf5bd",
+    "name": "Medical Diagnosis - Blood Clot Policy",
+    "description": "Proposes possible Blood Clot medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "ebb99f02-1f3c-cd58-159e-834b160e565d",
+    "name": "Medical Diagnosis - Brain Tumor Policy",
+    "description": "Proposes possible Brain Tumor medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "3c41b0aa-fbda-1a70-6359-4b2a5d0b456e",
+    "name": "Medical Diagnosis - Breast Cancer Policy",
+    "description": "Proposes possible Breast Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "3672ed53-e488-dfd5-abed-7b04f5a73403",
+    "name": "Medical Diagnosis - Cervical Cancer Policy",
+    "description": "Proposes possible Cervical Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "e2dcb0b9-b1b3-aea0-6527-5ef199a1a8ae",
+    "name": "Medical Diagnosis - Colon Cancer Policy",
+    "description": "Proposes possible Colon Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "988a3c8a-28da-7bfc-05da-5076e86afe30",
+    "name": "Medical Diagnosis - Dengue Policy",
+    "description": "Proposes possible Dengue medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "1005e8e1-6c77-21be-6c31-7dc2b932e7da",
+    "name": "Medical Diagnosis - Depression Policy",
+    "description": "Proposes possible Depression medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "00cbf2ea-8160-69e1-ad8a-585fb77e38ef",
+    "name": "Medical Diagnosis - Diabetes Policy",
+    "description": "Proposes possible Diabetes medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "ff048f32-e7b6-6a13-c63d-250b46d737a6",
+    "name": "Medical Diagnosis - Heart Attack Policy",
+    "description": "Proposes possible Heart Attack medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "add15df0-420d-b1f2-b311-72266b4e89ea",
+    "name": "Medical Diagnosis - Hernia Policy",
+    "description": "Proposes possible Hernia medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "805fbd9a-ae41-f892-da9a-6f5344dc1b6c",
+    "name": "Medical Diagnosis - Herpes Policy",
+    "description": "Proposes possible Herpes medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "51d67dd8-5fc8-a8c2-3cbd-c7f1a68ca45c",
+    "name": "Medical Diagnosis - Hypertension / High Blood Pressure Policy",
+    "description": "Proposes possible Hypertension or High Blood Pressure medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "2512ddfc-1f0a-72bd-118d-d8e9822bc892",
+    "name": "Medical Diagnosis - Irritable Bowel Syndrome (IBS) Policy",
+    "description": "Proposes possible Irritable Bowel Syndrome (IBS) medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "9720c177-c8c7-2808-b82c-497125959bf0",
+    "name": "Medical Diagnosis - Kidney Stone Policy",
+    "description": "Proposes possible Kidney Stone medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "9017803a-776f-eaa7-afc0-ccbba7c73f08",
+    "name": "Medical Diagnosis - Leukemia Policy",
+    "description": "Proposes possible Leukemia medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "10349daf-16a4-3c85-3135-65b8c252da62",
+    "name": "Medical Diagnosis - Lung Cancer Policy",
+    "description": "Proposes possible Lung Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "920351cd-9a25-185c-c8fd-fe8a05eb4cad",
+    "name": "Medical Diagnosis - Lupus Policy",
+    "description": "Proposes possible Lupus medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "a82c82e4-d04a-5226-142f-a7dc811e3838",
+    "name": "Medical Diagnosis - Lyme Disease Policy",
+    "description": "Proposes possible Lyme Disease medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "a1adbcff-6648-7087-abc2-ca92b8710596",
+    "name": "Medical Diagnosis - Menopause Policy",
+    "description": "Proposes possible Menopause medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "e73c13c0-9a62-4215-742b-e32798cab320",
+    "name": "Medical Diagnosis - Mononucleosis Policy",
+    "description": "Proposes possible Mononucleosis medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "2229b52d-b5e8-19b1-2b1b-27c72b9bdd18",
+    "name": "Medical Diagnosis - Ovarian Cancer Policy",
+    "description": "Proposes possible Ovarian Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "14d8e76c-15d9-27bb-4736-88486ba29f7f",
+    "name": "Medical Diagnosis - Pancreatic Cancer Policy",
+    "description": "Proposes possible Pancreatic Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "270cd452-da95-3675-452b-bc1b355c7e25",
+    "name": "Medical Diagnosis - Pneumonia Policy",
+    "description": "Proposes possible Pneumonia medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "cec5a4c4-31cc-3c04-eba8-b1dc32a679ff",
+    "name": "Medical Diagnosis - Pregnancy Policy",
+    "description": "Proposes possible Pregnancy medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "d1ecf000-bedb-8833-cb47-414f8e46bc27",
+    "name": "Medical Diagnosis - Prostate Cancer Policy",
+    "description": "Proposes possible Prostate Cancer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "1ae83c59-d45d-6a71-cd53-b4885d5dd63c",
+    "name": "Medical Diagnosis - Sinus Infection Policy",
+    "description": "Proposes possible Sinus Infection medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "b928a1e1-f42e-9615-d2e1-3eadfc7662e3",
+    "name": "Medical Diagnosis - Female Sexually Transmitted Disease (STD) Policy",
+    "description": "Proposes possible Female Sexually Transmitted Disease (STD) medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "80f566ff-7d17-6fa8-e954-c5cdb063f851",
+    "name": "Medical Diagnosis - Male Sexually Transmitted Disease (STD) Policy",
+    "description": "Proposes possible Male Sexually Transmitted Disease (STD) medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "7bcd3c09-d884-6250-918e-cdc0a1774f29",
+    "name": "Medical Diagnosis - Stomach Ulcer Policy",
+    "description": "Proposes possible Stomach Ulcer medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "c49f75e6-23fd-b3a5-68e4-efc9ec7648ef",
+    "name": "Medical Diagnosis - Strep Throat Policy",
+    "description": "Proposes possible Strep Throat medical condition or diagnosis based on medical signs and symptoms presented in a form or in conversation.  This policy matches based on English patterns and offers limit recommendation capabilities.  This policy is provided for content classification purposes only.  Patients should consult a qualified physician for all diagnosis and treatment."
+  },
+  {
+    "id": "bf993c64-b5c5-7932-7eec-16d86a97463a",
+    "name": "Mexico Personal Data Policy",
+    "description": "Detects personal data as defined by Mexico's Federal Law on the Protection of Personal Data held by Private Parties, Privacy Notice Guidelines (April 2013), Recommendations on Personal Data Security (November 2013), Parameters for Self-Regulation regarding personal data (May 2014), General Law for the Protection of Personal Data in Possession of Obligated Subjects, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "dee523e2-cb8f-24c9-bf8b-9e39a60bc2f1",
+    "name": "Mexico Sensitive Data Policy",
+    "description": "Detects sensitive data for Mexico as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "4c33f8ec-b47a-d1b3-6665-a2e9dcb89bd3",
+    "name": "Netherlands Personal Data Policy",
+    "description": "Detects personal data applicable to Netherlands for Dutch Data Protection Act, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7abb3593-a457-5348-9dec-9db9b8926b99",
+    "name": "Netherlands Sensitive Data Policy",
+    "description": "Detects sensitive data for Netherlands as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "05a27b25-b556-41f8-b817-5034d7a069b1",
+    "name": "Norway Personal Data Policy",
+    "description": "Detects personal data applicable to Norway's Personal Data Act (PDA), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "0227b2ef-70a2-8036-920f-331bdd60383f",
+    "name": "Norway Sensitive Data Policy",
+    "description": "Detects sensitive data for Norway as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "5f1b6f49-b2a9-126a-35f0-d49d8b26b6a9",
+    "name": "Offensive Language Policy",
+    "description": "Detect language containing curses, insults, racism, sexism, or other offensive content."
+  },
+  {
+    "id": "198a4bca-8867-e1bf-1e85-b99504ef15cb",
+    "name": "PCI-DSS Policy",
+    "description": "Detects content subject to the Payment Card Industry Data Security Standard (PCI-DSS) industry standard."
+  },
+  {
+    "id": "b7255af8-7a63-e5f4-49ba-de644c830f78",
+    "name": "Peru Personal Data Policy",
+    "description": "Detects personal data as defined by Peru Personal Data Protection Law - Law N° 29733, Political Constitution of Peru, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "7b75a632-6d61-8b48-9463-386b41f55ecb",
+    "name": "Peru Sensitive Data Policy",
+    "description": "Detects sensitive data for Peru as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "3b4ae4b5-d788-e29e-d5e6-e9a605a3626c",
+    "name": "Poland Personal Data Policy",
+    "description": "Detects personal data as defined by Poland's Personal Data Protection Act of August 1997 (PDPA), Telecommunications Act of July 2004, Telecommunications Act of July 2004, Insurance and Reinsurance Activity Act of September 2015, Act on Providing Services by Electronic Means of July 2002, Labour Code of June 1974, the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "85fd18fd-8ae7-4e17-c43a-12552b5e2ca4",
+    "name": "Poland Sensitive Data Policy",
+    "description": "Detects sensitive data for Poland as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "a9fd442b-03a6-d3a8-fcec-32c4c7d5249e",
+    "name": "Portugal Personal Data Policy",
+    "description": "Detects personal data as defined by the Data Protection Act (DPA) for Portuguese Law 67/98 (Data Protection Act), the Portuguese Constitution (Article 35 on the use of computerised data), Law 41/2004 implementing Directive 2002/58/EC on the protection of privacy in the electronic communications sector (E-Privacy Directive), Law 46/2012 implementing Directive 2002/22/EC on universal service and users' rights (Universal Service Directive), Regulation (EU) 611/2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "a81cd9c1-a44d-fb09-caa0-00728da54a7e",
+    "name": "Portugal Sensitive Data Policy",
+    "description": "Detects sensitive data for Portugal as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c7679f84-590d-2c9e-0421-2acd9f832800",
+    "name": "Proposals / Bids Policy",
+    "description": "Detects corporate proposal and bid documents."
+  },
+  {
+    "id": "2c131cbe-767f-a84d-ac7e-5558c8b238b0",
+    "name": "Ransomware Policy",
+    "description": "Detects ransom notes/demands/instructions from ransomware malware."
+  },
+  {
+    "id": "b5bb7466-7fc7-155c-dcec-8665263d2e21",
+    "name": "U.S. SEC Regulation Best Interest (RegBI) Policy",
+    "description": "Detects potential signs and symptoms of communications to be reviewed for compliance with U.S. Securities and Exchange Commission (SEC) Regulation Best Interest (RegBI) rule.  This policy matches based on word patterns.  This policy is provided for content classification purposes only."
+  },
+  {
+    "id": "3c752b3e-ab0e-35a4-3fcc-4dac7eec36c2",
+    "name": "Romania Personal Data Policy",
+    "description": "Detects personal data as defined by Romania's Data Protection Law No. 677/2001 (\"DPL\"), Romanian E-Privacy Law No. 506/2004, E-Privacy Directive 2002/58/EC, Romanian E-commerce Law No. 365/2002, Electronic Commerce Directive 2000/31/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ab721720-cccd-2d8d-2c21-8c7e3a3fc656",
+    "name": "Romania Sensitive Data Policy",
+    "description": "Detects sensitive data for Romania as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "9de1bbe7-e271-d80d-21ec-cb49e81ce99a",
+    "name": "Russia Personal Data Policy",
+    "description": "Detects personal data applicable to Russia Federal Law on Personal Data (No. 152-FZ), and Russian Code on Administrative Infractions (No.195-FZ)."
+  },
+  {
+    "id": "36a4d361-a0cd-545b-2866-3615a21f3218",
+    "name": "Russia Sensitive Data Policy",
+    "description": "Detects sensitive data for Russia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b0cf9231-2c1b-8174-669a-e2f931dfaa11",
+    "name": "Kingdom of Saudi Arabia Personal Data Policy",
+    "description": "Detects personal data as defined by Kingdom of Saudi Arabia's Personal Data Protection Law (PDPL) (implemented by Royal Decree M/19 of 9/2/1443H (16 September 2021) ) and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ad3bf09c-f0e1-2d30-5520-2f111a95b863",
+    "name": "Kingdom of Saudi Arabia Sensitive Data Policy",
+    "description": "Detects sensitive data for Kingdom of Saudi Arabia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "504675b9-ef7e-f271-37f0-c3882e8ae2e6",
+    "name": "Singapore Personal Data Policy",
+    "description": "Detects personal data as defined by Singapore's Personal Data Protection Act (PDPA), numerous laws relating to the processing of personal data in the public sector that apply to everyone, including secrecy and disclosure laws in the Official Secrets Act and the Electronic Transactions Act, and cross-compatibility with European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ae5cd361-3a7e-3a31-c771-5193ad4c8722",
+    "name": "Singapore Sensitive Data Policy",
+    "description": "Detects sensitive data for Singapore as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "1a18428d-c092-f09c-0108-a090c82c6411",
+    "name": "Slovakia Personal Data Policy",
+    "description": "Detects personal data as defined by Slovakia's Act no. 122/2013 on Personal Data Protection, Act no. 84/2014 on Personal Data Protection, Law no. 136/2014 in Slovak Republic's  Collection of Laws, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "618954b9-12af-33b5-a87b-de3b6d28bec5",
+    "name": "Slovakia Sensitive Data Policy",
+    "description": "Detects sensitive data for Slovakia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "4008a206-4b65-1519-a8bf-9ef67ae6daa4",
+    "name": "Slovenia Personal Data Policy",
+    "description": "Detects personal data as defined by Slovenia's Personal Data Protection Act (“ZVOP-1” and “ZVOP-2”), Law no. 86/2004, Law no. 113/05, Law no. 51/07, Law no. 67/07, Law no. 94/07, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "3f8808f9-739b-750a-10df-d1fd0aff0b94",
+    "name": "Slovenia Sensitive Data Policy",
+    "description": "Detects sensitive data for Slovenia as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "a68a8e20-5896-0803-7b28-7df6c6580d7d",
+    "name": "South Korea Personal Data Policy",
+    "description": "Detects personal data as defined by South Korea's Personal Information Protection Act (Act No. 16930, Feb. 4, 2020), Enforcement Decree of the Personal Information Protection Act (Presidential Decree No. 30892, Aug. 04, 2020), Act on the Lapse of Criminal Sentences (Act No. 15258, Dec. 19, 2017, Partial Amendment), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c8b94b36-9ab2-d871-ebae-fcc838634b58",
+    "name": "South Korea Sensitive Data Policy",
+    "description": "Detects sensitive data for South Korea as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "0114e8f8-3a69-060b-ac81-620cd166615b",
+    "name": "South Africa Personal Data Policy",
+    "description": "Detects personal data applicable to South Africa Protection of Personal Information Act (POPIA / POPI)."
+  },
+  {
+    "id": "2dfeacfc-3c48-e08b-2dff-20486a88aca6",
+    "name": "South Africa Sensitive Data Policy",
+    "description": "Detects sensitive data for South Africa as defined by the South Africa Protection of Personal Information Act (POPIA / POPI), the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c16d3d4b-ae7d-c47b-7e63-296619c118e0",
+    "name": "Spain Personal Data Policy",
+    "description": "Detects personal data applicable to Spain's Data Protection Act (Law 15/1999 on the protection of personal data), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "0533a97e-5356-5168-d74d-d2b22b0b53c5",
+    "name": "Spain Sensitive Data Policy",
+    "description": "Detects sensitive data for Spain as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "372155ad-b302-d735-a1ab-a2a0aeed29a9",
+    "name": "Sweden Personal Data Policy",
+    "description": "Detects personal data applicable to Sweden for Swedish Personal Data Act (PDA), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "c451e5c7-406e-ff83-30be-a0ff59281c48",
+    "name": "Sweden Sensitive Data Policy",
+    "description": "Detects sensitive data for Sweden as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "5228c34f-ea90-acd7-f961-03d321d97bab",
+    "name": "SWIFT Codes Policy",
+    "description": "Detect Society for Worldwide Interbank Financial Telecommunication (SWIFT) codes, also known as Bank Identifer Codes (BIC), also known as Business Identifier Codes (BIC), also known as ISO 9362, and related content."
+  },
+  {
+    "id": "cdfde048-d908-7891-bcfb-febd8a7f07b8",
+    "name": "Swiss Financial Market Supervision Act (FINMASA) Policy",
+    "description": "Detects some data elements subject to the Federal Act on the Swiss Financial Market Supervisory Authority 956.1, Financial Market Supervision Act (FINMASA)"
+  },
+  {
+    "id": "5c506977-eccd-d6fa-c991-cc3de52a3722",
+    "name": "Switzerland National ID Policy",
+    "description": "Detect Switzerland National Identifiers and related content."
+  },
+  {
+    "id": "a7051a97-89e3-f55b-901f-d945d40e9045",
+    "name": "Switzerland Personal Data Policy",
+    "description": "Detects personal data as defined by Switzerland's Federal Act on Data Protection (FADP, DPA) and the Ordinance to the Federal Act on Data Protection (OFADP, OFDPA) at the Swiss federal and canton levels, Regulation (EU) 611/2013 on the measures applicable to the notification of personal data breaches under Directive 2002/58/EC, European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "dad58d56-7d0b-67d9-9f4f-f335bf6db26f",
+    "name": "Switzerland Sensitive Data Policy",
+    "description": "Detects sensitive data for Switzerland as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "346597d6-2843-b6e1-9df6-d435252b6a30",
+    "name": "Taiwan Personal Data Policy",
+    "description": "Detects personal data as defined by Taiwan Personal Data Protection Act, Enforcement Rules of the Personal Data Protection Act, and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "14d023fb-2162-6177-84da-b354130657e7",
+    "name": "Taiwan Sensitive Data Policy",
+    "description": "Detects sensitive data for Taiwan as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "19057c25-a2d2-51fb-517e-c432b52371b2",
+    "name": "Thailand Personal Data Policy",
+    "description": "Detects personal data as defined by Thailand's Personal Data Protection Act (\"PDPA\"), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "59c544f9-400a-6664-5d2e-473c9efc9e3d",
+    "name": "Thailand Sensitive Data Policy",
+    "description": "Detects sensitive data for Thailand as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "8d7583d7-5119-8064-b053-88b2d70949a1",
+    "name": "Turkey Personal Data Policy",
+    "description": "Detects personal data applicable to Turkey's Law on Protection of Personal Data No 6698 (Data Protection Law, KVKK), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "90b41a1c-15e5-573b-30f4-9726f5ab3875",
+    "name": "Turkey Sensitive Data Policy",
+    "description": "Detects sensitive data for Turkey as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "14f7a083-0e71-1edc-ad4a-48b72146da15",
+    "name": "Ukraine Personal Data Policy",
+    "description": "Detects personal data applicable to Ukraine \"On Personal Data Protection\" Law (\"Data Protection Law\") No. 2297 VI, No. 5491-VI, and No. 383-VII."
+  },
+  {
+    "id": "fadf06d9-7a42-d9a9-14e0-4a84f8aec56e",
+    "name": "Ukraine Sensitive Data Policy",
+    "description": "Detects sensitive data for Ukraine as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "986e43cf-2286-61f3-7f40-95a84167f925",
+    "name": "United Arab Emirates (UAE) Personal Data Policy",
+    "description": "Detects personal data as defined by United Arab Emirates (UAE) Article 379 of the UAE Penal Code, Cyber Crime Law (Federal Law 5 of 2012 regarding Information Technology Crime Control) (amended by Federal Law No. 12 of 2016 and Federal Decree Law No. 2 of 2018), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "4a3de2db-5686-896a-a3c9-80e13f1b085d",
+    "name": "United Arab Emirates (UAE) Sensitive Data Policy",
+    "description": "Detects sensitive data for United Arab Emirates (UAE) as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "6aa1b8a5-cc40-78a8-74d5-183bf4121bea",
+    "name": "U.K. Drivers License Number Policy",
+    "description": "Detects U.K. drivers license numbers and related content."
+  },
+  {
+    "id": "56fb03a2-97ae-7aa8-f804-96ac5b05e505",
+    "name": "U.K. National ID Policy",
+    "description": "Detects U.K. National Identifiers and related content."
+  },
+  {
+    "id": "bb955276-054b-7184-ca3b-04c831578550",
+    "name": "U.K. National Insurance Number (NINO) Policy",
+    "description": "Detects U.K. National Insurance number and related content."
+  },
+  {
+    "id": "dcbfd641-b17e-bb2e-03dc-d6b59303b3f4",
+    "name": "U.K. Passport Policy",
+    "description": "Detects U.K. passports with related personal information."
+  },
+  {
+    "id": "a42e3409-1239-af98-071b-64c598f7fc50",
+    "name": "U.K. Personal Data Policy",
+    "description": "Detects personal data applicable to United Kingdom's Data Protection Act 1998 (DPA), European Privacy Directive 95/46/EC on data protection (Data Protection Directive), and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "ca75a83f-d717-12eb-c1a6-8ef50859c658",
+    "name": "U.K. Sensitive Data Policy",
+    "description": "Detects sensitive data for United Kingdom as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "f6209bb0-2b27-9ab3-bb40-49bbf87d9a50",
+    "name": "U.K. Unique Tax Reference (UTR) Policy",
+    "description": "Detects U.K. Unique Tax Reference (UTR) number and related content."
+  },
+  {
+    "id": "6eb054d2-ac6d-4be4-eeef-bc6b11d9c26c",
+    "name": "United States California Assembly Bill 1298 (AB-1298) Policy",
+    "description": "Detects electronic patient personally identifiable information (PII) for California's medical privacy law and medical identity theft to support California Assembly Bill 1298 (California/CA AB 1298)."
+  },
+  {
+    "id": "6102f7e5-f24a-1fc5-88e6-e6ffa1c13a16",
+    "name": "United States California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) Policy",
+    "description": "Detects U.S.- and California-centric personally identifiable information in support of California AB-375, California Consumer Privacy Act (CCPA), and California Privacy Rights Act (CPRA)."
+  },
+  {
+    "id": "6b06fedb-2db9-b1d8-1cfe-1bc83147f875",
+    "name": "United States California Confidentiality of Medical Information Act (CMIA) Policy",
+    "description": "Detects individually identifiable medical information for United States California Confidentiality of Medical Information Act (CMIA), specified in California Civil Code §§56."
+  },
+  {
+    "id": "7b672038-4dc8-f275-112c-43f43c55f9ac",
+    "name": "United States California Privacy Rights Act (CPRA) Sensitive Personal Information (SPI) Policy",
+    "description": "Detects U.S.- and California-centric sensitive personal information (SPI) in support of U.S. California Privacy Rights Act (CPRA) of 2020."
+  },
+  {
+    "id": "025e07ed-fe3a-6268-952d-9b54c3e0c6e3",
+    "name": "United States California Financial Information Privacy Act (SB1) Policy",
+    "description": "Detect personal financial information for California Financial Information Privacy Act, also known as CA SB1."
+  },
+  {
+    "id": "47b5c48c-7d79-dab5-16f7-a0f9abc8ac06",
+    "name": "United States Colorado Privacy Act (CPA) Policy",
+    "description": "Detects U.S.- and Colorado-centric personally identifiable information in support of Colorado Privacy Act (CPA)."
+  },
+  {
+    "id": "f99458a9-8222-07a9-2906-652bf0a50931",
+    "name": "United States Connecticut Data Privacy Act (CDPA) Policy",
+    "description": "Detects U.S.- and Connecticut-centric personally identifiable information in support of Connecticut Data Privacy Act (CDPA)."
+  },
+  {
+    "id": "dc5a486a-9752-f0bf-98ef-07cfdcf54dbb",
+    "name": "United States Drivers License Number Policy",
+    "description": "Detect United States drivers license numbers."
+  },
+  {
+    "id": "c522264d-ef18-9076-07f5-8b77d5e45556",
+    "name": "United States Export Controlled Information Policy",
+    "description": "Detects content subject to export control under the U.S. International Traffic in Arms Regulations (ITAR), the Arms Export Control Act, the Export Administration Act, export controlled materials under U.S. Department of Commerce (DoC) Export Administration Regulations (EAR) 15 CFR §§730-774, the Export Administration Regulations (EAR), U.S. Executive Order 13556 \"Controlled Unclassified Information\" (CUI) 32 CFR Part 2002, or articles, services, and related technical data designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML)."
+  },
+  {
+    "id": "e076b44a-2fa7-e6e5-09d8-134ebf3a998f",
+    "name": "Fair Credit Reporting Act (FCRA) Policy",
+    "description": "Detect personal credit information for Fair Credit Reporting Act (FCRA)."
+  },
+  {
+    "id": "273cb02e-a755-6084-bb9b-f73f8abbac98",
+    "name": "United States Family Educational Rights and Privacy Act (FERPA) Policy",
+    "description": "Detects educational content subject to the U.S. Family Educational Rights and Privacy Act (FERPA)."
+  },
+  {
+    "id": "8acf4680-11bc-3fcd-c35e-6a933e14ffc4",
+    "name": "United States Federal Financial Institutions Examination Council (FFIEC) Policy",
+    "description": "Detect personally identifiable and financial information for the U.S. Federal Financial Institutions Examination Council (FFIEC)."
+  },
+  {
+    "id": "42d17ac9-6be6-4cea-cb46-d75b8300c171",
+    "name": "United States Financial Forms and Documents Policy",
+    "description": "Detect United States financial forms and documents."
+  },
+  {
+    "id": "3c903813-c396-f25f-9687-39f5e2559824",
+    "name": "United States Federal Information Security Management Act (FISMA) Policy",
+    "description": "Detect personal and security information and for U.S. Federal Information Security Management Act (FISMA) of 2002, also known as E-Government Act of 2002, also known as Public Law 107-347.  The type of information that should be protected depends on the relevant agency/sector."
+  },
+  {
+    "id": "b2af5b4b-60c3-ca08-6aaf-668a3e8eee03",
+    "name": "United States Gramm-Leach-Bliley Act (GLBA) Policy",
+    "description": "Detect personal financial information for the U.S. Financial Services Modernization Act of 1999, also known as Gramm-Leach-Bliley Act (GLBA), also known as Public Law 106-102."
+  },
+  {
+    "id": "9a4e8d1d-acb9-b83c-7c46-a20a0b04825b",
+    "name": "United States Health Insurance Portability and Accountability Act (HIPAA) Policy",
+    "description": "Detects electronic patient health information (ePHI) for U.S. Health Insurance Portability and Accountability Act (HIPAA), also known as Public Law 104-191, and the Health Information Technology for Economic and Clinical Health (HITECH) Act."
+  },
+  {
+    "id": "63e36d54-598d-fd18-1dc2-0ea9f5cfe255",
+    "name": "United States Internal Revenue Service (IRS) 1075 Policy",
+    "description": "Detect IRS tax forms and financial information for the U.S. Internal Revenue Service (IRS) 1075 and Internal Revenue Code (IRC) 6103."
+  },
+  {
+    "id": "344c63d1-57f6-de7e-233a-c9ecc825feaf",
+    "name": "United States International Traffic in Arms Regulations (ITAR) Policy",
+    "description": "Detects content subject to export control under the U.S. International Traffic in Arms Regulations (ITAR), the Arms Export Control Act, the Export Administration Act, the Export Administration Regulations (EAR), or articles, services, and related technical data designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML)."
+  },
+  {
+    "id": "002d42c1-96f5-5e31-7f14-1ba5d27f6ff5",
+    "name": "United States Massachusetts Regulation 201 CMR 17.00 (MA 201 CMR 17) Policy",
+    "description": "Detects U.S.- and Massachusetts-centric personally identifiable information in accordance with Massachusetts Regulation 201 CMR 17.00."
+  },
+  {
+    "id": "fceb4b93-e295-0c45-5941-65c0cc35b0a0",
+    "name": "United States Medical Record Number Policy",
+    "description": "Detect U.S. medical record numbers (generically)."
+  },
+  {
+    "id": "4daa38b7-5221-b992-f536-03f027c8d6a0",
+    "name": "United States New York State Department of Financial Services (NYDFS) Cybersecurity Regulation 23 NYCRR 500 Policy",
+    "description": "Detects personal data applicable to the New York State Department of Financial Services (NYDFS) Cybersecurity Regulation, 23 NYCRR 500."
+  },
+  {
+    "id": "86a8e118-0aa7-77a6-b164-5834624b3450",
+    "name": "United States Passport Policy",
+    "description": "Detects U.S. passports and passport cards with related personal information."
+  },
+  {
+    "id": "6804f220-9e66-6a42-a4e6-d53b11f2b91b",
+    "name": "United States Personal Data Policy",
+    "description": "Detects personal data applicable to United States's Federal and State laws, including The Federal Trade Commission Act (FTC Act), the Financial Services Modernization Act (Gramm-Leach-Bliley Act (GLB/GLBA)), the Health Insurance Portability and Accountability Act (HIPAA), the Fair Credit Reporting Act (FCRA), the Fair and Accurate Credit Transactions Act (FACTA), among many others."
+  },
+  {
+    "id": "9d8e2e97-249f-2a28-773d-9a5349493eef",
+    "name": "United States Securities and Exchange Commission (SEC) Forms Policy",
+    "description": "Detect U.S. Securities and Exchange Commission (SEC) Forms."
+  },
+  {
+    "id": "a2c8155c-e841-153d-6be7-0f76b5a34223",
+    "name": "United States Sensitive Data Policy",
+    "description": "Detects sensitive data for the United States as defined by the California Consumer Privacy Act of 2018 (CCPA)."
+  },
+  {
+    "id": "611a04f4-e40f-412d-1306-614785a7e84b",
+    "name": "United States Sarbanes-Oxley (SOX) Policy",
+    "description": "Detect forms and terms relating to the U.S. Sarbanes–Oxley Act of 2002 (\"SOX\", Public Law 107)."
+  },
+  {
+    "id": "c56c4728-8b7c-e84a-240f-b3de5888fd4f",
+    "name": "United States Social Security Number (SSN) and Taxpayer ID Policy",
+    "description": "Detect United States taxpayer identification numbers.  This is typically the U.S. Social Security Number (SSN)."
+  },
+  {
+    "id": "50acea96-ddf9-9f5b-57ed-555548f7b74f",
+    "name": "United States Utah Consumer Privacy Act (UCPA) Policy",
+    "description": "Detects U.S.- and Utah-centric personally identifiable information in support of Utah Consumer Privacy Act (UCPA)."
+  },
+  {
+    "id": "c8171e7b-71d0-f366-d084-8bab4419a4a2",
+    "name": "United States Virginia Consumer Data Protection Act (VCDPA) Policy",
+    "description": "Detects U.S.- and Virginia-centric personally identifiable information in support of Virginia Consumer Data Protection Act (VCDPA)."
+  },
+  {
+    "id": "924c2f35-a890-7bc3-f1bf-aa9e6af6f9a6",
+    "name": "Venezuela Personal Data Policy",
+    "description": "Detects personal data as defined by Venezuela's Constitution of the Bolivarian Republic of Venezuela (1998), Venezuela's International Covenant on Civil and Political Rights (1978), Venezuela's Act for the Protection of the Privacy of Communications (1991), Venezuela's Act for the Protection of Girls, Boys and Adolescents (2000), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "db7d0571-0c8d-b92d-eb63-9cdb2c718314",
+    "name": "Venezuela Sensitive Data Policy",
+    "description": "Detects sensitive data for Venezuela as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "922a301f-475f-af70-2fd8-96910caefdc4",
+    "name": "Vietnam Personal Data Policy",
+    "description": "Detects personal data as defined by Vietnam's Draft Decree on Personal Data Protection in Vietnam dated February 9, 2021, the Constitution of the Socialist Republic of Vietnam 2013, Vietnam’s Civil Code 2015, Vietnam's Criminal Code No. 100/2015/QH13 (November 27, 2015), Vietnam's Criminal Procedure Code Law No. 101/2015/QH13 (November 27, 2015), Vietnam's Law on Protection of Consumers’ Rights No. 59/2010/QH12 (November 17, 2010), and a general similarity to the European General Data Protection Regulation (GDPR)."
+  },
+  {
+    "id": "b6f0eba7-9f6a-226b-e2f9-780803d9ddeb",
+    "name": "Vietnam Sensitive Data Policy",
+    "description": "Detects sensitive data for Vietnam as defined by the European Privacy Directive 95/46/EC on data protection (Data Protection Directive) and the European General Data Protection Regulation (GDPR)."
+  }
+]
